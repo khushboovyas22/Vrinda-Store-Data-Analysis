@@ -1,1 +1,2 @@
 # Vrinda-Store-Data-Analysis
+Vrinda Store is an e-commerce store listed on different e-com channels, as they are listed on multiple channel they want to analyze their sales on different channels and by using Data Cleaning, Data Processing, Data Analysis and Data Visualisation Reports are created by the Data of Year 2022 and Insights are also shared with clients to improve the Business in up coming finacial year. 
